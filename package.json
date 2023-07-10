@@ -42,7 +42,7 @@
 		"svelte-check": "^3.0.1",
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.4",
-		"vite": "^4.0.0"
+		"vite": "^4.4.2"
 	},
 	"svelte": "./dist/index.js",
 	"main": "./dist/index.js",
